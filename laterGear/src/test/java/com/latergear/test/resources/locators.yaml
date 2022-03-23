@@ -1,0 +1,37 @@
+baseUrl: https://brave-goldberg-04dea0.netlify.app/latergear/
+
+imagePopUp: div.o--modalCard
+
+Fifteen52Turbomacwheels: "img[alt='Ken Block living life on the edge.']"
+Fifteen52ImgPopUpUrl: /4806
+
+LadiesBlackAndGreenWetSuitImg: div#ember34
+LadiesBlackAndGreenWetSuitUrl: /4807
+
+FoxRacingBlackHelmetImg: div#ember36
+FoxRacingBlackHelmetUrl: /4808
+
+OnceUponATimeInShaolinImg: div#ember40
+OnceUponATimeInShaolinUrl: /4810
+
+VROneImg: div#ember44
+VROneUrl: /4812
+
+DCSignatureShoeImg: div#ember46
+DCSignatureShoeUrl: /4805
+
+BurtonBoardImg: div#ember48
+BurtonBoardUrl: /1318
+
+
+
+AddToCartButton: a[role='button']
+
+cartOpenUrl: ?isCartOpen=true
+checkoutButton: a[role='button'][class='u--text--md o--btn o--btn--block o--btn--proceed']
+
+checkoutUrl: /checkouts
+
+outOfStocksUrl: /stock_problems
+continueButton: button#continue_button
+PopUp_SelectDropdown: Select.o--form__select
